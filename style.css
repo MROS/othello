@@ -1,0 +1,12 @@
+#myCanvas {
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+#score {
+    position: absolute;
+    left: 1090px;
+    top: 50px;
+    font-size: 30px;
+}
