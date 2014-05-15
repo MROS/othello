@@ -1,4 +1,4 @@
-thello
+Othello
 =======
 
 a othello written by javascript, aimed for a AI competetion platform
